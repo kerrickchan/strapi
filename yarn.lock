@@ -8743,7 +8743,7 @@ __metadata:
     style-loader: "npm:3.3.1"
     styled-components: "npm:5.3.3"
     typescript: "npm:5.2.2"
-    vite: "npm:4.4.9"
+    vite: "npm:4.5.5"
     webpack: "npm:^5.88.1"
     webpack-bundle-analyzer: "npm:^4.9.0"
     webpack-dev-middleware: "npm:6.1.1"
@@ -8960,7 +8960,7 @@ __metadata:
     storybook: "npm:7.4.0"
     styled-components: "npm:5.3.3"
     typescript: "npm:5.2.2"
-    vite: "npm:4.4.9"
+    vite: "npm:4.5.5"
     yup: "npm:0.32.9"
   peerDependencies:
     "@strapi/design-system": 1.13.1
@@ -9033,7 +9033,7 @@ __metadata:
     rimraf: "npm:3.0.2"
     rxjs: "npm:7.8.1"
     typescript: "npm:5.2.2"
-    vite: "npm:4.4.9"
+    vite: "npm:4.5.5"
     yup: "npm:0.32.9"
   bin:
     pack-up: ./bin/pack-up.js
@@ -32478,9 +32478,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:4.4.9":
-  version: 4.4.9
-  resolution: "vite@npm:4.4.9"
+"vite@npm:4.5.5":
+  version: 4.5.5
+  resolution: "vite@npm:4.5.5"
   dependencies:
     esbuild: "npm:^0.18.10"
     fsevents: "npm:~2.3.2"
@@ -32514,7 +32514,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: d15543bded36f2083c13286b5420e89673be99abd28664f27a73980f2099f10e427b07e24f4e035dcd682989ebf8e1e5f5257664771edd4b466e2599119d1a47
+  checksum: 2e8b39e004f2b2e72506b816700b3aafaf3f85bdcb9dd9392075bb234ce7333f859a0d2078a85ce5d0039f0f659ca564a7366af587848e5166f14b136cb0ad37
   languageName: node
   linkType: hard
 
